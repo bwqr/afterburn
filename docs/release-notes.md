@@ -10,6 +10,8 @@ Major changes:
 
 Minor changes:
 
+- Digitalocean: Add the `DIGITALOCEAN_INSTANCE_ID` attribute
+
 Packaging changes:
 
 ## Afterburn 5.11.0
