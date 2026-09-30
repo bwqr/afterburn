@@ -10,7 +10,7 @@ Major changes:
 
 Minor changes:
 
-- Digitalocean: Add the `DIGITALOCEAN_INSTANCE_ID` attribute
+- DigitalOcean: Add the `DIGITALOCEAN_INSTANCE_ID` attribute
 
 Packaging changes:
 
